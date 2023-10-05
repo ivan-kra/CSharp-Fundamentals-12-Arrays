@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\bin\Debug\net6.0\01.Train.exe
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\bin\Debug\net6.0\01.Train.deps.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\bin\Debug\net6.0\01.Train.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\bin\Debug\net6.0\01.Train.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\bin\Debug\net6.0\01.Train.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\01.Train.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\01.Train.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\01.Train.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\01.Train.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\refint\01.Train.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\01.Train.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\01.Train.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\01.Train\obj\Debug\net6.0\ref\01.Train.dll
