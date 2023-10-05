@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.exe
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.deps.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\bin\Debug\net6.0\04.ArrayRotation.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\refint\04.ArrayRotation.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\04.ArrayRotation.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\04.ArrayRotation\obj\Debug\net6.0\ref\04.ArrayRotation.dll

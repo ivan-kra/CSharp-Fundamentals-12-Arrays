@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.exe
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.deps.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\bin\Debug\net6.0\05.TopIntegers.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\refint\05.TopIntegers.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\05.TopIntegers.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\05.TopIntegers\obj\Debug\net6.0\ref\05.TopIntegers.dll
