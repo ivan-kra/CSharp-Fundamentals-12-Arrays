@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.exe
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.deps.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\bin\Debug\net6.0\06.EqualSum.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\refint\06.EqualSum.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\06.EqualSum.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\06.EqualSum\obj\Debug\net6.0\ref\06.EqualSum.dll
