@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.exe
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.deps.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\bin\Debug\net6.0\03.Zig-ZagArrays.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\refint\03.Zig-ZagArrays.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\03.Zig-ZagArrays.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\03.Zig-ZagArrays\obj\Debug\net6.0\ref\03.Zig-ZagArrays.dll

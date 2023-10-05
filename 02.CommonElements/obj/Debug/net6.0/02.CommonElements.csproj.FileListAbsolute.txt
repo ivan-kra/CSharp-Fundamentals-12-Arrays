@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.exe
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.deps.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\bin\Debug\net6.0\02.CommonElements.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\refint\02.CommonElements.dll
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.pdb
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\02.CommonElements.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\12 Arrays - Exercise\02.CommonElements\obj\Debug\net6.0\ref\02.CommonElements.dll
